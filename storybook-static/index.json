@@ -1,0 +1,1 @@
+{"v":4,"entries":{"button--red":{"id":"button--red","title":"Button","name":"Red","importPath":"./src/stories/Button.stories.js","tags":["story"],"type":"story"},"input--standart":{"id":"input--standart","title":"Input","name":"Standart","importPath":"./src/stories/Input.stories.js","tags":["story"],"type":"story"}}}
